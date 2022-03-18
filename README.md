@@ -1,2 +1,3 @@
-# mi-primer-repo
-Repositorio creado para la materia Soporte con Python
+Nombre: Pablo Gabriel
+Apellido: Nardi
+Legajo: 41896
